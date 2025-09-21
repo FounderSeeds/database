@@ -15,7 +15,7 @@ export interface SeedProduct {
   traits: string[];
   regions: string[];
   image: string;
-  // price: number;
+  price: number;
   inStock: boolean;
   featured: boolean;
 }
